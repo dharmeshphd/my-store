@@ -1,4 +1,4 @@
-# my-store
+# MY-STORE
 Practical Test Project
 
 MOST IMPORTANT (HOW TO MAKE ADMIN USER)
@@ -15,7 +15,10 @@ MOST IMPORTANT (HOW TO MAKE ADMIN USER)
 GETING STARTED
 ================================================================
 Step 1: Install node modules 
-`npm install`
+`npm install && cd client && npm install`
+Step 2: Start development server
+`npm run dev`
+
 
 Note : 
 1. App is configured with local database (mongodb), please change the mongodb URI to perform futher operations
