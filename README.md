@@ -1,18 +1,20 @@
 # MY-STORE
 Practical Test Project
 
-====== ADMIN ======
-email : admin@admin.com
-pass : 123456
-Role : change permission of users, activate and deactivate users
+1 ====== ADMIN ======
+* email : admin@admin.com
+* pass : 123456
+* Role : change permission of users, activate and deactivate users
 
-====== SELLER ======
-email : seller@seller.com
-pass : 123456
+2 ====== SELLER ======
+* email : seller@seller.com
+* pass : 123456
+* Role : Add new product to database
 
-====== BUYER ========
-email : buyer@buyer.com
-pass : 123456
+3 ====== BUYER ========
+* email : buyer@buyer.com
+* pass : 123456
+* Role : Able to add products to cart
 
 
 Note : 
@@ -32,9 +34,6 @@ GETING STARTED
 
 * Step 3: Create first user
 * Create at least one admin user
-
-
-
 
 
 ====== FRONT_END ========
