@@ -7,7 +7,7 @@ MOST IMPORTANT (HOW TO MAKE ADMIN USER)
 * Create a user from app
 * Go to mongodb shell
 * Find that user
-* Change the permission by => user.peresmission.admin = true
+* Change the permission by => user.permission.admin = true
 * Only these user has access to admin panel and able to see all the users.
 
 Note : 
