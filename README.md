@@ -11,7 +11,11 @@ MOST IMPORTANT (HOW TO MAKE ADMIN USER)
 * Only these user has access to admin panel and able to see all the users.
 
 
+================================================================
+GETING STARTED
+================================================================
 Step 1: Install node modules 
+`npm install`
 
 Note : 
 1. App is configured with local database (mongodb), please change the mongodb URI to perform futher operations
