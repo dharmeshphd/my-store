@@ -14,9 +14,11 @@ MOST IMPORTANT (HOW TO MAKE ADMIN USER)
 ================================================================
 GETING STARTED
 ================================================================
-Step 1: Install node modules 
+* Step 1: Install node modules 
 `npm install && cd client && npm install`
-Step 2: Start development server
+* Go back to previous directory `cd ..`
+
+* Step 2: Start development server
 `npm run dev`
 
 
