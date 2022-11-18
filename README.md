@@ -1,8 +1,15 @@
 # my-store
 Practical Test Project
 
-MOST IMPORTANT
-ADMIN PREVELEGE ONLY BE GIVEN BY DATABASE ADMINISTRAROR
+MOST IMPORTANT (HOW TO MAKE ADMIN USER)
+* ACCESS ADMIN PANEL
+* ADMIN PREVELEGE ONLY BE GIVEN BY DATABASE ADMINISTRATOR
+* Create a user from app
+* Go to mongodb shell
+* Find that user
+* Change the permission by => user.peresmission.admin = true
+* Only these user has access to admin panel and able to see all the users.
+
 
 Step 1: Install node modules 
 
