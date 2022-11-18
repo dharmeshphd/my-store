@@ -62,6 +62,13 @@ const Login = ({login, isAuthenticated}) => {
       <p className="mt-4">
         <Link to="/register">Click here to create new account</Link>
       </p>
+     <hr/>
+      <p>Only for development : Make sure you create at least one ADMIN user</p>
+      <p>Admin user can be created by : got mondodb shell, find that user and change the permission  "user.permission.admin = true"</p>
+      <p>Only admin user can able to access admin panel and give other permissions</p>
+      <p>To add the product : First need to give selling permission to user, other not all user can able to sell the products</p>
+      <p>To give selling permission: go to /products page and tick mark user, that we want to give selling permission</p>
+    
     </section>
   );
 };
