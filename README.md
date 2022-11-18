@@ -1,19 +1,23 @@
 # MY-STORE
 Practical Test Project
 
-MOST IMPORTANT (HOW TO MAKE ADMIN USER)
-* ACCESS ADMIN PANEL
-* ADMIN privilege ONLY BE GIVEN BY DATABASE ADMINISTRATOR
-* Create a user from app
-* Go to mongodb shell
-* Find that user
-* Change the permission by => user.permission.admin = true
-* Only these user has access to admin panel and able to see all the users.
+====== ADMIN ======
+email : admin@admin.com
+pass : 123456
+Role : change permission of users, activate and deactivate users
+
+====== SELLER ======
+email : seller@seller.com
+pass : 123456
+
+====== BUYER ========
+email : buyer@buyer.com
+pass : 123456
+
 
 Note : 
-1. App is configured with local database (mongodb), please change the mongodb URI to perform futher operations
-2. I used REST Client extension of VS Code for testing REST APIs (It is far more managable extension then POSTMAN)
-3. API requests collection for REST Client extension (postman) is stored in "http_client : postman" directory
+1. I used REST Client extension of VS Code for testing REST APIs (It is far more managable extension then POSTMAN)
+2. API requests collection for REST Client extension (postman) is stored in "http_client : postman" directory
 
 
 ================================================================
