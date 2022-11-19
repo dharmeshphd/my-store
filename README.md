@@ -4,7 +4,8 @@ MY-STORE is a open source full-stack web application project. build using React.
 
 ## Installation
 MY-STORE requires [Node.js](https://nodejs.org/) v10+ to run.
-Install the dependencies and devDependencies and start the server.  (For mac and linux users)
+Install the dependencies and devDependencies and start the server.
+Installation commands for mac and linux users
 ```sh
 git clone https://github.com/dharmeshphd/my-store
 cd my-store
