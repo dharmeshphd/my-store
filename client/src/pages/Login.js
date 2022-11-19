@@ -63,6 +63,10 @@ const Login = ({login, isAuthenticated}) => {
         <Link to="/register">Click here to create new account</Link>
       </p>
      <hr/>
+     <h5>Fore development</h5>
+     <p>- Login with admin user have access to admin panel, login from seller account to add product to database and rest of all account should be considered as buyer.</p>
+     <p>- Highly recommended to first read the <a href="https://github.com/dharmeshphd/my-store/" className="text-danger">  README.md </a>file</p>
+     <p></p>
       <p className="mt-4">
         <a href="https://github.com/dharmeshphd/my-store/" className="text-secondary">Click here to goto github for further information</a>
       </p>
